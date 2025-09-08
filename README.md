@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduando em Engenharia da computação com inteligência artificial na universidade UNI-CET.  Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado "[jhdev18](https://www.instagram.com/dev_em_dev/)".
+Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduando em Engenharia da computação com inteligência artificial na universidade UNI-CET.  Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado "[jhdev18](https://www.instagram.com/jhdev18)".
 
 <div> 
     <a href="https://www.instagram.com/jhdev18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -99,5 +99,5 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdev18&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+![Undertale Family GIF](./We Heart It.gif)
