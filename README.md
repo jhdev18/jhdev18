@@ -100,4 +100,6 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdev18&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-![Undertale Family GIF](./We Heart It.gif)
+<p align="center">
+  <img src="We Heart It.gif" width="600" />
+</p>
