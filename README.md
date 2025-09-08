@@ -101,5 +101,5 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
   />
 </p>
 <p align="center">
-  <img src="We Heart It.gif" width="400" />
+  <img src="We Heart It.gif" width="500" />
 </p>
