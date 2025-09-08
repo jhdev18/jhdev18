@@ -12,6 +12,23 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
 
 ### 🤖 Linguagens e Tecnologias que estou aprendendo
 
+
+<img 
+  align="left" 
+  alt="Ruby" 
+  title="Ruby"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Ruby on Rails" 
+  title="Ruby on Rails"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" 
+/>
 <img 
     align="left" 
     alt="Python" 
@@ -28,15 +45,6 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
-
-<img 
-  align="left" 
-  alt="Ruby" 
-  title="Ruby"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
-/>
 <img 
     align="left" 
     alt="HTML"
@@ -45,14 +53,7 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
-  align="left" 
-  alt="Ruby on Rails" 
-  title="Ruby on Rails"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" 
-/>
+
 <img 
     align="left" 
     alt="CSS" 
