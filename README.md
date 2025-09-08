@@ -10,7 +10,7 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
 </div>
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias que estou aprendendo
 
 <img 
     align="left" 
@@ -19,6 +19,14 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Django" 
+  title="Django"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 
 <img 
@@ -36,6 +44,14 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Ruby on Rails" 
+  title="Ruby on Rails"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" 
 />
 <img 
     align="left" 
