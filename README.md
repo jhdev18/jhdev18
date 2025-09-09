@@ -13,10 +13,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=007bff&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+computer+engineering+with+artificial+intelligence;I'm+also+a+software+developer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00ffff&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+computer+engineering+with+artificial+intelligence;I'm+also+a+software+developer;Be+welcome!" alt="Typing SVG"/>
-</div>
-
 
 **`Desenvolvedor FullStack`**
 
