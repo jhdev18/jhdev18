@@ -16,15 +16,20 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduando em Engenharia da computação com inteligência artificial na universidade UNI-CET.  Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado "[jhdev18](https://www.instagram.com/jhdev18)".
+| English 🇬🇧                                                                                                                                                                                                                                                           | Português 🇧🇷                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| My name is João Henrique, I'm 20 years old, and I'm from Teresina, Piauí, Brazil. I am currently pursuing a degree in Computer Engineering with a focus on Artificial Intelligence at UNI-CET university. I am passionate about technology and share my knowledge on Instagram through my profile, [jhdev18](https://www.instagram.com/jhdev18). | Me chamo João Henrique, tenho 20 anos e sou natural de Teresina, Piauí. Graduando em Engenharia da Computação com ênfase em Inteligência Artificial na universidade UNI-CET. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, no perfil [jhdev18](https://www.instagram.com/jhdev18). |
 
-<div> 
-    <a href="https://www.instagram.com/jhdev18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<br>
+
+
+
+<div>
+  <a href="https://www.instagram.com/jhdev18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 #
 
-### 🤖 Linguagens e Tecnologias que estou aprendendo
 
 
 <img 
@@ -98,7 +103,7 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
 
 #
 
-### 📊 Estatísticas
+### 📊 Statistics / Estatísticas
 
 <p>
   <img 
@@ -106,25 +111,25 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jhdev18&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=jhdev18&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdev18&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdev18&theme=tokyonight&layout=compact&custom_title=Technologies/Tecnologias&langs_count=9" 
   />
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #
 
