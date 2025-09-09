@@ -1,4 +1,21 @@
-## Olá eu sou João Henrique 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007bff"/>
+
+<br>
+
+<div align="center">
+  <samp>
+      <br>
+      Hi there! I'm <b style="color: #007bff;">João Henrique</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=007bff&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+computer+engineering+with+artificial+intelligence;I'm+also+a+software+developer;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00ffff&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+computer+engineering+with+artificial+intelligence;I'm+also+a+software+developer;Be+welcome!" alt="Typing SVG"/>
+</div>
 
 
 **`Desenvolvedor FullStack`**
@@ -8,7 +25,8 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
 <div> 
     <a href="https://www.instagram.com/jhdev18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
----
+
+#
 
 ### 🤖 Linguagens e Tecnologias que estou aprendendo
 
@@ -79,8 +97,10 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
-<br/>
-<br/>
+<br>
+<br>
+
+#
 
 ### 📊 Estatísticas
 
@@ -100,6 +120,18 @@ Me chamo João Henrique, tenho 20 anos e sou natural de Teresina Piauí. Graduan
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdev18&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+#
+
 <p align="center">
   <img src="We Heart It.gif" width="500" />
 </p>
