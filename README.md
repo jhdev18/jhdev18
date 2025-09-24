@@ -42,11 +42,11 @@
 />
 <img 
   align="left" 
-  alt="Ruby on Rails" 
-  title="Ruby on Rails"
+  alt="Django" 
+  title="Django"
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 <img 
     align="left" 
