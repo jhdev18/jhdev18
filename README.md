@@ -42,6 +42,15 @@
 />
 
 <img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+/>
+
+<img 
   align="left" 
   alt="Ruby" 
   title="Ruby"
@@ -90,20 +99,15 @@
 
 ### 📊 Statistics / Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jhdev18&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhdev18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    height="180"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdev18&theme=tokyonight&layout=compact&custom_title=Technologies/Tecnologias&langs_count=9" 
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jhdev18&layout=compact&theme=tokyonight&langs_count=8" 
+    height="180"
   />
 </p>
 
